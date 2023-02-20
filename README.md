@@ -71,11 +71,18 @@
 Here is the folder structure.
 ```
 20476_Discrete_Mathematics/
+|- FinalExams/
 |- Exams/
 |- Units/
 ```
 
 Now, lets dive into the the contents of the folders and the format that determines them
+
+### Final Exams
+
+`Question{i}.pdf`
+
+This folder houses all the solutions per question for different final exams.
 
 ### Exams
 
