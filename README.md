@@ -48,7 +48,7 @@
     <br />
     <a href="https://github.com/ladunjexa/20476_Discrete_Mathematics/issues">4 Continuing Education Units (CEUs) in Mathematics</a>
     ·
-    <a href="https://github.com/ladunjexa/20476_Discrete_Mathematics/issues">Based on Java Software Solutions: Foundations of Program Design (9th Edition)</a>
+    <a href="https://github.com/ladunjexa/20476_Discrete_Mathematics/issues">Based on Open University Books for Discrete Mathematics</a>
   </p>
 </div>
 
