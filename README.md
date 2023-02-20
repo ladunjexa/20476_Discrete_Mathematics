@@ -84,16 +84,41 @@ Now, lets dive into the the contents of the folders and the format that determin
 
 This folder houses all the solutions per question for different final exams.
 
+| Question No. | File |
+|:----------|:-------------|
+| 1 |  Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/FinalExams/Question1.pdf) |
+| 2 |  Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/FinalExams/Question2.pdf) |
+| 3 |  Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/FinalExams/Question3.pdf) |
+| 4 |  Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/FinalExams/Question4.pdf) |
+| 5 |  Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/FinalExams/Question5.pdf) |
+
 ### Exams
 
 `mamah{i}.pdf` - `maman{i}.pdf`
 
 This folder houses all the solutions for computing assignments and lecturer assignments.
 
+| Maman No. | File | Mamah No. | File |
+|:---------|:----------|:---------|:----------| 
+| 11 |  Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/Exams/maman11.pdf) | 02 |  Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/Exams/mamah02.pdf) |
+| 12 |  Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/Exams/maman12.pdf) | 03 |  Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/Exams/mamah03.pdf) |
+| 13 |  Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/Exams/maman13.pdf) | 04 |  Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/Exams/mamah04.pdf) |
+| 14 |  Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/Exams/maman14.pdf) | 05 |  Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/Exams/mamah05.pdf) |
+| 15 |  Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/Exams/maman15.pdf) |
+| 16 |  Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/Exams/maman16.pdf) |
+
 ### Units
 `main topic: title`
 
 This folder houses all the study materials and summaries for the different study units.
+
+| Title | File |
+|:------|:-----|
+| Propositional calculus - לוגיקת הפסוקים | Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/Units/%D7%9C%D7%95%D7%92%D7%99%D7%A7%D7%AA%20%D7%94%D7%A4%D7%A1%D7%95%D7%A7%D7%99%D7%9D.pdf) |
+| Set Theory: Relations and Basic Concepts - תורת הקבוצות: מושגי יסוד ויחסים | Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/Units/%D7%AA%D7%95%D7%A8%D7%AA%20%D7%94%D7%A7%D7%91%D7%95%D7%A6%D7%95%D7%AA%20-%20%D7%9E%D7%95%D7%A9%D7%92%D7%99%20%D7%99%D7%A1%D7%95%D7%93%20%D7%95%D7%99%D7%97%D7%A1%D7%99%D7%9D.pdf) |
+| Set Theory: Functions and Cardinals - תורת הקבוצות: פונקציות ועוצמות | Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/Units/%D7%AA%D7%95%D7%A8%D7%AA%20%D7%94%D7%A7%D7%91%D7%95%D7%A6%D7%95%D7%AA%20-%20%D7%A4%D7%95%D7%A0%D7%A7%D7%A6%D7%99%D7%95%D7%AA%20%D7%95%D7%A2%D7%95%D7%A6%D7%9E%D7%95%D7%AA.pdf) |
+| Combinatorics for Discrete Math - קומבינטוריקה למתמטיקה דיסקרטית | Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/Units/%D7%A7%D7%95%D7%9E%D7%91%D7%99%D7%A0%D7%98%D7%95%D7%A8%D7%99%D7%A7%D7%94%20%D7%9C%D7%9E%D7%AA%D7%9E%D7%98%D7%99%D7%A7%D7%94%20%D7%93%D7%99%D7%A1%D7%A7%D7%A8%D7%98%D7%99%D7%AA.pdf) |
+| Graph Theory for Discrete Math - תורת הגרפים למתמטיקה דיסקרטית | Click [here](https://github.com/ladunjexa/20476_Discrete_Mathematics/blob/main/Units/%D7%AA%D7%95%D7%A8%D7%AA%20%D7%94%D7%92%D7%A8%D7%A4%D7%99%D7%9D%20%D7%9C%D7%9E%D7%AA%D7%9E%D7%98%D7%99%D7%A7%D7%94%20%D7%93%D7%99%D7%A1%D7%A7%D7%A8%D7%98%D7%99%D7%AA.pdf) |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
