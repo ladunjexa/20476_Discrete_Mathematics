@@ -69,7 +69,7 @@
 ## Folder Structure
 
 Here is the folder structure.
-```
+```bash
 20476_Discrete_Mathematics/
 |- FinalExams/
 |- Exams/
